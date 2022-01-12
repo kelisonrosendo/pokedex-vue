@@ -1,24 +1,34 @@
-# pokedex-vue
+<h1 align="center">
+  PokéDex Vue
+</h1>
+<h3 align="center">
+	Projetinho da PokéDex utilizando VueJs
+</h3>
 
-## Project setup
-```
-yarn install
-```
+---
 
-### Compiles and hot-reloads for development
-```
-yarn serve
-```
+#### 💻 Sobre o projeto
+O projeto foi realizado utilizando o VueJs e consumindo a api pública do Pokémon (https://pokeapi.co/) para fazer uma PokéDex.
 
-### Compiles and minifies for production
-```
-yarn build
-```
+#### 🧭 Rodando a aplicação
 
-### Lints and fixes files
-```
-yarn lint
-```
+```bash
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+# Clone este repositório
+
+# Acesse a pasta do projeto
+
+# Instale as dependências:
+npm install ou yarn
+
+# Execute a aplicação:
+npm run serve ou yarn serve
+
+```
+#### 🛠 Tecnologias
+
+[Vue](https://vuejs.org/) + [BootstrapVue](https://bootstrap-vue.org/)
+
+<p align="center">
+  <img src="https://github.com/kelisonrosendo/pokedex-vue/blob/main/src/assets/pokedex.jpg" />
+</p>
