@@ -1,34 +1,31 @@
-<h1 align="center">
-  PokéDex Vue
-</h1>
-<h3 align="center">
-	Projetinho da PokéDex utilizando VueJs
-</h3>
+#### 💻 Projeto
+O projeto foi realizado utilizando o VueJs e consumindo a api pública do Pokémon https://pokeapi.co para fazer uma PokéDex.
 
----
+[Link para visualizar a aplicação](https://pokedex-vue-seven.vercel.app/)
 
-#### 💻 Sobre o projeto
-O projeto foi realizado utilizando o VueJs e consumindo a api pública do Pokémon (https://pokeapi.co/) para fazer uma PokéDex.
+#### 🚀 Tecnologias
+Esse projeto foi desenvolvido com as seguintes tecnologias:
 
-#### 🧭 Rodando a aplicação
+- [Vue](https://vuejs.org/)
 
+Utilitários:
+
+- [BootstrapVue](https://bootstrap-vue.org/)
+- [PokeApi](https://pokeapi.co/)
+
+#### 🎮 Rodar a aplicação
 ```bash
 
 # Clone este repositório
 
 # Acesse a pasta do projeto
 
-# Instale as dependências:
-npm install ou yarn
+# Instale as dependências utilizando npm install
 
-# Execute a aplicação:
-npm run serve ou yarn serve
+# Execute a aplicação utilizando npm run serve
 
 ```
-#### 🛠 Tecnologias
-
-[Vue](https://vuejs.org/) + [BootstrapVue](https://bootstrap-vue.org/)
 
 <p align="center">
-  <img src="https://github.com/kelisonrosendo/pokedex-vue/blob/main/src/assets/pokedex.jpg" />
+  <img src="src/assets/pokedex.jpg" />
 </p>
